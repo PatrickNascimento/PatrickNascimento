@@ -7,13 +7,18 @@
 ![React](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Node](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
+![Node](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Deno)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=ORACLE)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GRAPHQL)
 ![CircleCi](https://img.shields.io/badge/-CircleCI-000000?style=flat&logo=CIRCLECI)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
+
 
 
 
